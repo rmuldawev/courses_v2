@@ -1,0 +1,21 @@
+.container {
+    width: 344px;
+    background:red;
+    height: 100vh;
+    padding-left: 24px;
+}
+
+.vertical-nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

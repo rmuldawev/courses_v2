@@ -1,0 +1,14 @@
+.button_style {
+    width: 320px;
+    height: 45px;
+    border-radius: 16px;
+    background: linear-gradient( rgba(67, 57, 108),rgba(11, 21, 49));
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    font-size: 16px;
+    color:#fff;
+    margin: 0;
+}
